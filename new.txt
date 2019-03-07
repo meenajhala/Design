@@ -1,0 +1,103 @@
+Designer@Designer-PC MINGW64 /d/xampp/htdocs/Design (07-03-19)
+$ git add .
+
+Designer@Designer-PC MINGW64 /d/xampp/htdocs/Design (07-03-19)
+$ git commit -m "add file"
+[07-03-19 10b9a79] add file
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 new.txt
+
+Designer@Designer-PC MINGW64 /d/xampp/htdocs/Design (07-03-19)
+$ git push origin 07-03-19
+Username for 'https://github.com': meenajhala
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (2/2), 299 bytes | 4.00 KiB/s, done.
+Total 2 (delta 0), reused 0 (delta 0)
+remote:
+remote: Create a pull request for '07-03-19' on GitHub by visiting:
+remote:      https://github.com/meenajhala/Design/pull/new/07-03-19
+remote:
+To https://github.com/meenajhala/Design.git
+ * [new branch]      07-03-19 -> 07-03-19
+
+Designer@Designer-PC MINGW64 /d/xampp/htdocs/Design (07-03-19)
+$ git init
+
+
+
+Designer@Designer-PC MINGW64 /d/xampp/htdocs/Design/seasonal_job_pages (07-03-19)
+$ git add .
+
+Designer@Designer-PC MINGW64 /d/xampp/htdocs/Design/seasonal_job_pages (07-03-19)
+$ git commit -m "add file"
+[07-03-19 2795d01] add file
+ 11 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 seasonal_job_pages/manage-work-1.jpg
+ create mode 100644 seasonal_job_pages/manage-work-10.jpg
+ create mode 100644 seasonal_job_pages/manage-work-2.jpg
+ create mode 100644 seasonal_job_pages/manage-work-3.jpg
+ create mode 100644 seasonal_job_pages/manage-work-4.jpg
+ create mode 100644 seasonal_job_pages/manage-work-5.jpg
+ create mode 100644 seasonal_job_pages/manage-work-6.jpg
+ create mode 100644 seasonal_job_pages/manage-work-7.jpg
+ create mode 100644 seasonal_job_pages/manage-work-8.jpg
+ create mode 100644 seasonal_job_pages/manage-work-9.jpg
+ create mode 100644 seasonal_job_pages/manage-work.jpg
+
+Designer@Designer-PC MINGW64 /d/xampp/htdocs/Design/seasonal_job_pages (07-03-19)
+$ git push origin 07-03-19
+Username for 'https://github.com': meenajhala
+Enumerating objects: 15, done.
+Counting objects: 100% (15/15), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (14/14), done.
+Writing objects: 100% (14/14), 1.57 MiB | 38.00 KiB/s, done.
+Total 14 (delta 8), reused 0 (delta 0)
+remote: Resolving deltas: 100% (8/8), completed with 1 local object.
+To https://github.com/meenajhala/Design.git
+   10b9a79..2795d01  07-03-19 -> 07-03-19
+
+Designer@Designer-PC MINGW64 /d/xampp/htdocs/Design/seasonal_job_pages (07-03-19)
+$
+
+To redirect in a specific folder:
+
+Designer@Designer-PC MINGW64 /d/xampp/htdocs/Design (07-03-19)
+$ cd docs
+
+Designer@Designer-PC MINGW64 /d/xampp/htdocs/Design/docs (07-03-19)
+$
+
+
+
+
+Designer@Designer-PC MINGW64 /d/xampp/htdocs/Design (07-03-19)
+$ cd docs
+
+Designer@Designer-PC MINGW64 /d/xampp/htdocs/Design/docs (07-03-19)
+$ ^C
+
+Designer@Designer-PC MINGW64 /d/xampp/htdocs/Design/docs (07-03-19)
+$ cd Design
+bash: cd: Design: No such file or directory
+
+Designer@Designer-PC MINGW64 /d/xampp/htdocs/Design/docs (07-03-19)
+$ cd ..
+
+Designer@Designer-PC MINGW64 /d/xampp/htdocs/Design (07-03-19)
+$ cd/
+bash: cd/: No such file or directory
+
+Designer@Designer-PC MINGW64 /d/xampp/htdocs/Design (07-03-19)
+$ cd \
+>
+
+Designer@Designer-PC MINGW64 ~
+$ cd /d/xampp/htdocs/Design
+
+Designer@Designer-PC MINGW64 /d/xampp/htdocs/Design (07-03-19)
+$
+
